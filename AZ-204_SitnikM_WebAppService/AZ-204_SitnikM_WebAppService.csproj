@@ -5,4 +5,8 @@
     <RootNamespace>AZ_204_SitnikM_WebAppService</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
 </Project>
